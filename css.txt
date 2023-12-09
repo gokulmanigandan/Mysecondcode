@@ -1,2 +1,0 @@
-css is the caseacdin stylesheet used to style the html document
-css developed for visual approach and developers and user to seperte the content
